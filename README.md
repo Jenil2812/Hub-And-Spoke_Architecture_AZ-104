@@ -3,6 +3,9 @@
 ## Overview
 This document outlines the steps to create a Hub and Spoke network architecture using Azure. The project involves setting up resource groups, virtual networks (VNets), subnets, virtual machines (VMs), and configuring network security and routing.
 
+##Architecture Of Hub and Spoke 
+![image alt](https://github.com/Jenil2812/Hub-And-Spoke_Architecture_AZ-104/blob/e884e0ade876780793b1b9601fe908aabff64d1c/Hub-And-Spoke_Architecture.png)
+
 ## Resource Groups
 - **Hub-RG**: Located in Canada Central.
 - **Spoke1-RG**: Located in Canada Central.
